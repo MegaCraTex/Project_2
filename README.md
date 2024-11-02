@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/0b92b950-3cf4-4f28-9b25-67b11e1fd14b)
 
   Краткое описание
   
