@@ -1,4 +1,4 @@
-IDF0
+IDF0 диаграмма:
 ![IDF0](https://github.com/user-attachments/assets/a45bab90-d369-4a54-9362-cce36ef31cad)
   Краткое описание
   
