@@ -1,7 +1,8 @@
 1.IDF0 диаграмма:
 ![IDF0](https://github.com/user-attachments/assets/a45bab90-d369-4a54-9362-cce36ef31cad)
 2.IDF0 диаграмма:
-![image](https://github.com/user-attachments/assets/d7239085-3bcd-427c-b106-13d84d15353c)
+![image](https://github.com/user-attachments/assets/fc11c707-2472-4fe9-9469-43a6ef551ab8)
+
 
   Краткое описание
   
